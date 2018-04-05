@@ -1,0 +1,22 @@
+{
+  "name": "ga-test",
+  "version": "1.0.0",
+  "description": "GA計測タグの勉強用",
+  "main": "index.js",
+  "scripts": {
+    "dev": "php -S 0.0.0.0:8000 -t src/ & echo $! > .serve_pid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomomo51/ga-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomomo51/ga-test/issues"
+  },
+  "homepage": "https://github.com/Tomomo51/ga-test#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
